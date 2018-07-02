@@ -1,4 +1,3 @@
-
 class CashRegister 
   attr_accessor :discount, :item, :last_transaction, :total
 
