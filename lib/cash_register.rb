@@ -16,5 +16,5 @@ class CashRegister
     self.total = cost * number
   end
   
-  
+end
   
